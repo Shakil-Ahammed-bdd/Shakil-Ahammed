@@ -19,7 +19,7 @@
 - <image alt="gif" src="image/books.gif" width="28px" align="center"/> I’m looking to collaborate on  [Github](https://github.com/Shakil-Ahammed-bdd)
 - <image alt="gif" src="image/learninig.gif" width="28px" align="center"/> I’m currently learning **C/C++/python/Django**
 - 📫   How to reach me **mdshakilahammedbd2002@gmail.com**
-- <image alt="gif" src="image/paper.gif" width="28px" align="center"/> Ask me about **c/cpp/python/django/html/css**
+- <image alt="gif" src="image/paper.gif" width="28px" align="center"/> Ask me about **c/cpp/python/django/java/html/css**
 - <image alt="gif" src="image/cat-coder.gif" width="28px" align="center"/> Fun fact **I love coding**
 
 
@@ -58,7 +58,7 @@
 <a href="https://instagram.com/shajadul_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shajadul_shakil" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/Shajadul_Shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Shajadul_Shakil" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/ahammed_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/LeetCode_Logo.svg" alt="leetcode_profile" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/idatctP4Z0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768312591255" alt="leetcode_profile" height="30" width="40" /></a>
 </div>
 <br/>
 </details>
@@ -70,7 +70,7 @@
  <br>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shakil-Ahammed-bdd&theme=github-dark-blue&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     <br><br>
-    <img height="192px" alt="Murshid's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-Ahammed-bdd&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
+    <img height="192px" alt="Shakil's top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-Ahammed-bdd&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Shakil-Ahammed-bdd&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <br>
