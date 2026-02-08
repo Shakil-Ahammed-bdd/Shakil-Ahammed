@@ -15,7 +15,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Shakil-Ahammed-bdd&label=Profile%20views&color=0e75b6&style=flat" alt="Shakil-Ahammed-bdd" /> </p>
 
-- <image alt="gif" src="image/laptop_code.gif" width="28px" align="center"/> I'm working Software Development site and problem solving.
+- <image alt="gif" src="image/laptop_code.gif" width="28px" align="center"/> I'm working **Software Development site** and **problem solving.**
 - <image alt="gif" src="image/books.gif" width="28px" align="center"/> I’m looking to collaborate on  [Github](https://github.com/Shakil-Ahammed-bdd)
 - <image alt="gif" src="image/learninig.gif" width="28px" align="center"/> I’m currently learning **C/C++/python/Django**
 - 📫   How to reach me **mdshakilahammedbd2002@gmail.com**
