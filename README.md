@@ -17,3 +17,7 @@
 
 - <image alt="gif" src="image/laptop_code.gif" width="33px" align="center"/> I'm working Software Development site and problem solving.
 - <image alt="gif" src="image/books.gif" width="33px" align="center"/> I’m looking to collaborate on  [Github](https://github.com/Shakil-Ahammed-bdd)
+- <image alt="gif" src="image/learninig.gif" width="33px" align="center"/> I’m currently learning **C/C++/python/Django**
+- 📫  How to reach me **shakilahammed@gmail.com**
+- <image alt="gif" src="image/paper.gif" width="33px" align="center"/> Ask me about **c/cpp/python/django/html/css**
+- <image alt="gif" src="image/cat-coder.gif" width="33px" align="center"/> Fun fact **I love coding**
