@@ -15,9 +15,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Shakil-Ahammed-bdd&label=Profile%20views&color=0e75b6&style=flat" alt="Shakil-Ahammed-bdd" /> </p>
 
-- <image alt="gif" src="image/laptop_code.gif" width="33px" align="center"/> I'm working Software Development site and problem solving.
-- <image alt="gif" src="image/books.gif" width="33px" align="center"/> I’m looking to collaborate on  [Github](https://github.com/Shakil-Ahammed-bdd)
-- <image alt="gif" src="image/learninig.gif" width="33px" align="center"/> I’m currently learning **C/C++/python/Django**
-- 📫  How to reach me **shakilahammed@gmail.com**
-- <image alt="gif" src="image/paper.gif" width="33px" align="center"/> Ask me about **c/cpp/python/django/html/css**
-- <image alt="gif" src="image/cat-coder.gif" width="33px" align="center"/> Fun fact **I love coding**
+- <image alt="gif" src="image/laptop_code.gif" width="28px" align="center"/> I'm working Software Development site and problem solving.
+- <image alt="gif" src="image/books.gif" width="28px" align="center"/> I’m looking to collaborate on  [Github](https://github.com/Shakil-Ahammed-bdd)
+- <image alt="gif" src="image/learninig.gif" width="28px" align="center"/> I’m currently learning **C/C++/python/Django**
+- 📫   How to reach me **shakilahammed@gmail.com**
+- <image alt="gif" src="image/paper.gif" width="28px" align="center"/> Ask me about **c/cpp/python/django/html/css**
+- <image alt="gif" src="image/cat-coder.gif" width="28px" align="center"/> Fun fact **I love coding**
