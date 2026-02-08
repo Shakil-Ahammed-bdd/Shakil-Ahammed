@@ -59,6 +59,7 @@
 <a href="https://codeforces.com/profile/Shajadul_Shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Shajadul_Shakil" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/ahammed_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>
  <a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/idatctP4Z0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768312591255" alt="leetcode_profile" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/profile/mdshakilahammed1" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/id7deEe4pT/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762878128557" alt="HackerRak_profile" height="30" width="40" /></a>
 </div>
 <br/>
 </details>
